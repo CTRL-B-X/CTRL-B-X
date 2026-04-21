@@ -33,7 +33,7 @@
 | 31/10/2024 | **Convert Docx2post <= 1.4** | Arbitrary File Upload | `9.1` | ![Critical](https://img.shields.io/badge/-Critical-911111) | [**CVE-2024-52397**](https://www.cve.org/CVERecord?id=CVE-2024-52397) |
 | 17/10/2024 | **Tailored Tools AXP <= 1.8.4** | Cross Site Scripting (XSS) | `6.5` | ![Medium](https://img.shields.io/badge/-Medium-cca300) | [**CVE-2024-52503**](https://www.cve.org/CVERecord?id=CVE-2024-52503) |
 | 18/10/2024 | **Simple Business Manager <= 4.6.7.4** | Cross Site Scripting (XSS) | `6.5` | ![Medium](https://img.shields.io/badge/-Medium-cca300) | [**CVE-2024-51599**](https://www.cve.org/CVERecord?id=CVE-2024-51599) |
-  </div>
+</div>
 
 ###   Tech Stack & Methodology
 - **Languages:** `PHP` `JavaScript` `Python` `SQL` `HTML`
