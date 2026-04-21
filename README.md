@@ -20,7 +20,7 @@
 
 
 <div align="center">
-  <h2>Vulnerability Ledger (Patchstack)</h2>
+  <h2>Vulnerability Ledger (Patchstack)</h2></div></br>
   </br><p>A track record of verified vulnerabilities and high-impact disclosures.<p/><br>
   <h3>4 Critical (9.0+) | 2 Medium | 6 Total Disclosures</h3>
   
