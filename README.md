@@ -5,10 +5,8 @@
   <a href="https://hackerone.com/c_t_r_l"><img src="https://img.shields.io/badge/HackerOne-Profile-000000?style=for-the-badge&logo=hackerone&logoColor=white" alt="HackerOne Profile" /></a>
 </br>
 
-  <h4>Hello, I am <span style="font-size: 10em;">C_T_R_L</span></h4>
-  
+  <h2>Hello, I am <span style="font-size: 10em;">C_T_R_L</span></h2>
   </br>
-
   <h3>Security Researcher focused on high-impact web application vulnerabilities</h3>
 
   <p>Responsible for multiple verified disclosures and assigned CVEs across Patchstack, Bugcrowd, and HackerOne programs, including critical vulnerabilities.</p>
