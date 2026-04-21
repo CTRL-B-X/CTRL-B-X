@@ -5,7 +5,7 @@
   <a href="https://hackerone.com/c_t_r_l"><img src="https://img.shields.io/badge/HackerOne-Profile-000000?style=for-the-badge&logo=hackerone&logoColor=white" alt="HackerOne Profile" /></a>
 </br>
 
-  <p>Hello, I am<h2>C_T_R_L</h2>
+  <h3>Hello, I am <span style="font-size: 1.5em;">C_T_R_L</span></h3>
   </br>
 
   <h3>Security Researcher focused on high-impact web application vulnerabilities</h3>
