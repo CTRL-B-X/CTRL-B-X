@@ -31,6 +31,8 @@
   | 17/10/2024 | **Tailored Tools AXP <= 1.8.4** | Cross Site Scripting (XSS) | `6.5` | ![Medium](https://img.shields.io/badge/-Medium-cca300) | [**CVE-2024-52503**](https://www.cve.org/CVERecord?id=CVE-2024-52503) |
   | 18/10/2024 | **Simple Biz Manager <= 4.6.7.4** | Cross Site Scripting (XSS) | `6.5` | ![Medium](https://img.shields.io/badge/-Medium-cca300) | [**CVE-2024-51599**](https://www.cve.org/CVERecord?id=CVE-2024-51599) |
 </div>
+
+
 ###   Tech Stack & Methodology
 - **Languages:** `PHP` `JavaScript` `Python` `SQL` `HTML`
 - **Tools:** `Burp Suite` `Semgrep` `WP-CLI` `LocalWP`
