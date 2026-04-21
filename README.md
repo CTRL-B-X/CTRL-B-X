@@ -17,8 +17,9 @@
 
 <hr />
 <div align="center">
-  <h2>Vulnerability Ledger (Patchstack)</h2>
-  <p>A track record of verified vulnerabilities and high-impact disclosures.</p>
+  <br>
+  <span style="font-size: 1.75em; font-weight: bold;">Vulnerability Ledger (Patchstack)</span>
+  <p><i>A track record of verified vulnerabilities and high-impact disclosures.</i></p>
   <h4>4 Critical (9.0+) | 2 Medium | 6 Total Disclosures</h4>
 
   | Date | Target Software | Vulnerability Type | CVSS | Severity | Status / CVE |
@@ -30,7 +31,6 @@
   | 17/10/2024 | **Tailored Tools AXP <= 1.8.4** | Cross Site Scripting (XSS) | `6.5` | ![Medium](https://img.shields.io/badge/-Medium-cca300) | [**CVE-2024-52503**](https://www.cve.org/CVERecord?id=CVE-2024-52503) |
   | 18/10/2024 | **Simple Biz Manager <= 4.6.7.4** | Cross Site Scripting (XSS) | `6.5` | ![Medium](https://img.shields.io/badge/-Medium-cca300) | [**CVE-2024-51599**](https://www.cve.org/CVERecord?id=CVE-2024-51599) |
 </div>
-
 ###   Tech Stack & Methodology
 - **Languages:** `PHP` `JavaScript` `Python` `SQL` `HTML`
 - **Tools:** `Burp Suite` `Semgrep` `WP-CLI` `LocalWP`
