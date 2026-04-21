@@ -6,7 +6,7 @@
 
 <br />
 
-## Hello, I'm C_T_R_L
+# Hello, I'm C_T_R_L
 **Security Researcher focused on high-impact web application vulnerabilities**
 
 Responsible for multiple verified disclosures and assigned CVEs across Patchstack, Bugcrowd, and HackerOne programs, including critical vulnerabilities.
@@ -17,7 +17,7 @@ This repository serves as a public archive of verified findings, research method
 
 <div align="center">
   <br />
-  <h3>Vulnerability Ledger (Patchstack)</h3>
+  <h2>Vulnerability Ledger (Patchstack)</h2>
   <p><i>A track record of verified vulnerabilities and high-impact disclosures.</i></p>
   <p><strong>4 Critical (9.0+) | 2 Medium | 6 Total Disclosures</strong></p>
 
