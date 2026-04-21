@@ -5,7 +5,7 @@
   <a href="https://hackerone.com/c_t_r_l"><img src="https://img.shields.io/badge/HackerOne-Profile-000000?style=for-the-badge&logo=hackerone&logoColor=white" alt="HackerOne Profile" /></a>
 </br>
 
-  <p>Hello, I am <span style="font-size: 1.9em;">C_T_R_L</span></p>
+  <p>Hello, I am <span style="font-size: 10em;">C_T_R_L</span></p>
   
   </br>
 
