@@ -17,7 +17,6 @@ Responsible for multiple verified disclosures and assigned CVEs across Patchstac
 This repository serves as a public archive of verified findings, research methodology, and supporting analysis.
 
 <hr />
-
 <div align="center">
   <br>
   <h2>Vulnerability Ledger (Patchstack)</h2>
