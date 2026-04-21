@@ -21,9 +21,9 @@
 
 <div align="center">
 ###   Vulnerability Ledger (Patchstack)
-*A track record of verified vulnerabilities and high-impact disclosures.*
+<p>*A track record of verified vulnerabilities and high-impact disclosures.*<p/>
 
-> **Summary:** 4 Critical (9.0+) | 2 Medium | 6 Total Disclosures
+<h3>4 Critical (9.0+) | 2 Medium | 6 Total Disclosures</h3>
 
 | Date | Target Software | Vulnerability Type | CVSS | Severity | Status / CVE |
 | :--- | :--- | :--- | :--- | :--- | :--- |
