@@ -47,7 +47,7 @@ This repository serves as a public archive of verified findings, research method
 ---
 
 ### Awards
-**Letter of Appreciation (NASA)** - https://github.com/CTRL-B-X/Awards
+**Letter of Appreciation (NASA)** - [https://github.com/CTRL-B-X/Awards](https://github.com/CTRL-B-X/Awards/blob/main/NASALetterOfAppreciation.pdf)
 
 ---
 
