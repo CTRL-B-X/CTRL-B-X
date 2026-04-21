@@ -39,10 +39,15 @@ This repository serves as a public archive of verified findings, research method
 
 ---
 
-### 🛠️ Tech Stack & Methodology
+### Tech Stack & Methodology
 - **Languages:** `PHP` `JavaScript` `Python` `SQL` `HTML`
 - **Tools:** `Burp Suite` `Semgrep` `WP-CLI` `LocalWP`
 - **Methodology:** Static Analysis (SAST) followed by dynamic verification of logic flaws and sink-to-source tracing.
+
+---
+
+### Awards
+**Letter of Appreciation (NASA)** - https://github.com/CTRL-B-X/Awards
 
 ---
 
