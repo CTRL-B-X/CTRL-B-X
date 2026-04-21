@@ -6,21 +6,23 @@
   <a href="https://hackerone.com/c_t_r_l"><img src="https://img.shields.io/badge/HackerOne-Profile-000000?style=for-the-badge&logo=hackerone&logoColor=white" alt="HackerOne Profile" /></a>
 </div>
 
-<br>
+<br />
 
 # Hello, I'm C_T_R_L
-**Security Researcher focused on high-impact web application vulnerabilities**
+
+### **Security Researcher focused on high-impact web application vulnerabilities**
 
 Responsible for multiple verified disclosures and assigned CVEs across Patchstack, Bugcrowd, and HackerOne programs, including critical vulnerabilities.
 
 This repository serves as a public archive of verified findings, research methodology, and supporting analysis.
 
----
+<hr />
 
-### Vulnerability Ledger (Patchstack)
-*A track record of verified vulnerabilities and high-impact disclosures.*
-
-**4 Critical (9.0+) | 2 Medium | 6 Total Disclosures**
+<div align="center">
+  <br>
+  <h2>Vulnerability Ledger (Patchstack)</h2>
+  <p><i>A track record of verified vulnerabilities and high-impact disclosures.</i></p>
+  <h4>4 Critical (9.0+) | 2 Medium | 6 Total Disclosures</h4>
 
 | Date | Target Software | Vulnerability Type | CVSS | Severity | Status / CVE |
 | :--- | :--- | :--- | :--- | :--- | :--- |
@@ -28,22 +30,21 @@ This repository serves as a public archive of verified findings, research method
 | 30/10/2024 | **Gallerio <= 1.01** | Arbitrary File Upload | `9.9` | ![Critical](https://img.shields.io/badge/-Critical-911111) | [**CVE-2024-52400**](https://www.cve.org/CVERecord?id=CVE-2024-52400) |
 | 11/10/2024 | **Property Lot Mgmt <= 4.2.38** | Arbitrary File Upload | `9.9` | ![Critical](https://img.shields.io/badge/-Critical-911111) | [**CVE-2024-49331**](https://www.cve.org/CVERecord?id=CVE-2024-49331) |
 | 31/10/2024 | **Convert Docx2post <= 1.4** | Arbitrary File Upload | `9.1` | ![Critical](https://img.shields.io/badge/-Critical-911111) | [**CVE-2024-52397**](https://www.cve.org/CVERecord?id=CVE-2024-52397) |
-| 17/10/2024 | **Tailored Tools AXP <= 1.8.4** | Cross Site Scripting (XSS) | `6.5` | ![Medium](https://img.shields.io/badge/-Medium-cca300) | [**CVE-2024-52503**](https://www.cve.org/CVERecord?id=CVE-2024-52503) |
-| 18/10/2024 | **Simple Biz Manager <= 4.6.7.4** | Cross Site Scripting (XSS) | `6.5` | ![Medium](https://img.shields.io/badge/-Medium-cca300) | [**CVE-2024-51599**](https://www.cve.org/CVERecord?id=CVE-2024-51599) |
+| 17/10/2024 | **Tailored Tools AXP <= 1.8.4** | XSS | `6.5` | ![Medium](https://img.shields.io/badge/-Medium-cca300) | [**CVE-2024-52503**](https://www.cve.org/CVERecord?id=CVE-2024-52503) |
+| 18/10/2024 | **Simple Biz Manager <= 4.6.7.4** | XSS | `6.5` | ![Medium](https://img.shields.io/badge/-Medium-cca300) | [**CVE-2024-51599**](https://www.cve.org/CVERecord?id=CVE-2024-51599) |
 
----
+</div>
+
+<hr />
 
 ### 🛠️ Tech Stack & Methodology
 - **Languages:** `PHP` `JavaScript` `Python` `SQL` `HTML`
 - **Tools:** `Burp Suite` `Semgrep` `WP-CLI` `LocalWP`
 - **Methodology:** Static Analysis (SAST) followed by dynamic verification of logic flaws and sink-to-source tracing.
 
----
-
 <p align="center">
-  <a href="https://x.com/INFOSECCK">
-    <img src="https://img.shields.io/badge/Contact%20Me-X.com-000000?style=for-the-badge&logo=x&logoColor=white" />
-  </a>
-  <br><br>
+  <br />
+  <a href="https://x.com/INFOSECCK"><img src="https://img.shields.io/badge/Contact%20Me-X.com-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
+  <br /><br />
   <img src="https://komarev.com/ghpvc/?username=CTRL-B-X&color=blue&style=flat-square&label=VDP_HITS" alt="Profile Views" />
 </p>
