@@ -8,12 +8,12 @@
   <br><br>
 
   <div align="left">
-  <h1>Hello, I'm C_T_R_L</h1>
-  <p><strong>Security Researcher focused on high-impact web application vulnerabilities</strong></p>
-  <p>Responsible for multiple verified disclosures and assigned CVEs across Patchstack, Bugcrowd, and HackerOne programs, including critical vulnerabilities.</p>
-</div>
+    <h1>Hello, I'm C_T_R_L</h1>
+    <p><strong>Security Researcher focused on high-impact web application vulnerabilities</strong></p>
+    <p>Responsible for multiple verified disclosures and assigned CVEs across Patchstack, Bugcrowd, and HackerOne programs, including critical vulnerabilities.</p>
+  </div>
 
-<hr />
+  <hr />
 
 <div align="center">
   <br>
