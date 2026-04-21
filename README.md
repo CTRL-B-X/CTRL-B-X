@@ -17,7 +17,7 @@ This repository serves as a public archive of verified findings, research method
 
 <div align="center">
   <br />
-  <span style="font-size: 2.25em; font-weight: bold;">Vulnerability Ledger (Patchstack)</span>
+  <span style="font-size: 10.00em; font-weight: bold;">Vulnerability Ledger (Patchstack)</span>
   <p><i>A track record of verified vulnerabilities and high-impact disclosures.</i></p>
   <p><strong>4 Critical (9.0+) | 2 Medium | 6 Total Disclosures</strong></p>
 </div>
