@@ -6,7 +6,7 @@
 
 <br />
 
-# Hello, I'm C_T_R_L
+## Hello, I'm C_T_R_L
 **Security Researcher focused on high-impact web application vulnerabilities**
 
 Responsible for multiple verified disclosures and assigned CVEs across Patchstack, Bugcrowd, and HackerOne programs, including critical vulnerabilities.
