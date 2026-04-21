@@ -44,5 +44,5 @@ This repository serves as a public archive of verified findings, research method
 <div align="center">
   <a href="https://x.com/INFOSECCK"><img src="https://img.shields.io/badge/Contact%20Me-X.com-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
   <br /><br />
-  <img src="https://komarev.com/ghpvc/?username=CTRL-B-X&color=blue&style=flat-square&label="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=CTRL-B-X&color=blue&style=flat-square&label="Profile_Views" />
 </div>
