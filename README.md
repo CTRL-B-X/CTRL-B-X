@@ -1,7 +1,7 @@
 <div align="center">
-  <a href="https://vdp.patchstack.com/database/researchers/5a3512b0-777c-40b0-bebd-e6b8973abf38"><img src="https://img.shields.io/badge/Patchstack-Researcher_Profile-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="Patchstack Profile" /></a>&nbsp;&nbsp;
-  <a href="https://bugcrowd.com/h/C_T_R_L"><img src="https://img.shields.io/badge/Bugcrowd-Profile-F69220?style=for-the-badge&logo=bugcrowd&logoColor=white" alt="Bugcrowd Profile" /></a>&nbsp;&nbsp;
-  <a href="https://hackerone.com/c_t_r_l"><img src="https://img.shields.io/badge/HackerOne-Profile-000000?style=for-the-badge&logo=hackerone&logoColor=white" alt="HackerOne Profile" /></a>
+  <a href="https://vdp.patchstack.com/database/researchers/5a3512b0-777c-40b0-bebd-e6b8973abf38"><img src="https://img.shields.io/badge/Patchstack-Researcher_Profile-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="Patchstack Researcher Profile" /></a>&nbsp;&nbsp;
+  <a href="https://bugcrowd.com/h/C_T_R_L"><img src="https://img.shields.io/badge/Bugcrowd-Profile-F69220?style=for-the-badge&logo=bugcrowd&logoColor=white" alt="Bugcrowd Researcher Profile" /></a>&nbsp;&nbsp;
+  <a href="https://hackerone.com/c_t_r_l"><img src="https://img.shields.io/badge/HackerOne-Profile-000000?style=for-the-badge&logo=hackerone&logoColor=white" alt="HackerOne Researcher Profile" /></a>
 </div>
 
 <br />
